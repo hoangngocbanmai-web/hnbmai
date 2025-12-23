@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>THỜI KHOÁ BIỂU</h1>
+    <table border="1" width="100%">
+      <tr>
+        <th>Tiết</th>
+        <th>Thứ 2</th>
+        <th>Thứ 3</th>
+        <th>Thứ 4</th>
+        <th>Thứ 5</th>
+        <th>Thứ 6</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>Chào cờ</td>
+        <td>Văn</td>
+        <td>Tin</td>
+        <td>Văn</td>
+        <td>Toán</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>SHCN</td>
+        <td>Văn</td>
+        <td>Anh</td>
+        <td>Văn</td>
+        <td>Toán</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Toán</td>
+        <td>TD</td>
+        <td>Sử</td>
+        <td>Địa</td>
+        <td>Văn</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Lý</td>
+        <td>TD</td>
+        <td>KTPL</td>
+        <td>Lý</td>
+        <td>Văn</td>
+      </tr>
+      <tr>
+        <td colspan="6">BUỔI CHIỀU</td>
+      </tr>
+    </table>
+  </body>
+</html>
