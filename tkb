@@ -1,6 +1,9 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <style>
+      td {text-align: center; color: red;}
+    </style>
   </head>
   <body>
     <h1>THỜI KHOÁ BIỂU</h1>
