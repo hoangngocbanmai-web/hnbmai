@@ -1,7 +1,12 @@
-h1 {
-  color: red;
-  text-align: center;
-}
-td {
-  text-align: center;
-}
+  h1 {
+    color: red;
+    text-align: center;
+  }
+  td {
+    text-align: center;
+  } 
+  .tieude {
+    color: tomato;
+    font-size: 25pt;
+    top-margin: 18pt;
+  }
